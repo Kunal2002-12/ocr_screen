@@ -5,4 +5,4 @@ setuptools
 # Pillow is often a dependency for image handling with OCR and GUI,
 # but paddleocr or PySide6 might pull it in.
 # Adding it explicitly can sometimes avoid issues.
-Pillow
+Pillow>=10.0.0
